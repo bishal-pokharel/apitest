@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "login": [
+    "name":"bishal",
+    "photo":"https://via.placeholder.com/150"
+  ]
 }
